@@ -6,22 +6,458 @@ uid: f4b9a3a7-3a80-b52a-8fd6-4f90bdf84558
 
 For full details of the readings listed below, see the [Bibliography]({{< baseurl >}}/pages/bibliography) page. From among the weeks when reading responses are due, students select two weeks' readings to respond to; for descriptions of that assignment and the final paper assignment, see the [Assignments]({{< baseurl >}}/pages/assignments) page.
 
-| WEEKs | Readings | DUE DATES |
-| --- | --- | --- |
-| 1\. Introduction and Course Overview |  {{< br >}}{{< br >}} *   "The 1619 Project"{{< br >}}*   Fraser, "How Feminism Became Capitalism's Handmaiden"{{< br >}}*   Kelley, "What Did Cedric Robinson Mean by Racial Capitalism?"{{< br >}}*   Sandel, _What Money Can't Buy_ (video) {{< br >}}{{< br >}} Optional: {{< br >}}{{< br >}} *   Coates, "The Case for Reparations"{{< br >}}*   Krugman, "Why We Are in a New Gilded Age"  {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 3 >}} {{< br >}}{{< br >}} **I. Foundations: Conceptualizing Capitalism** {{< br >}}{{< br >}} {{< /td-colspan >}} |||
-| 2\. Historicizing Capitalism: Race and the New History of Capitalism |  {{< br >}}{{< br >}} *   Beckert, "Building War Capitalism"{{< br >}}*   Beckert and Desan, _American Capitalism,_ introduction{{< br >}}*   Girvan, "Aspects of the Political Economy of Race," pp. 1–34{{< br >}}*   Robinson, _Black Marxism_, chapter 1 {{< br >}}{{< br >}} Optional: {{< br >}}{{< br >}} {{< h 3 >}}Classics{{< /h >}} {{< br >}}{{< br >}} *   Dubois, _Black Reconstruction in America_{{< br >}}*   James, _The Black Jacobins_{{< br >}}*   Williams, _Capitalism and Slavery_, pp. 51–84 {{< br >}}{{< br >}} {{< h 3 >}}Contemporary{{< /h >}} {{< br >}}{{< br >}} *   Beckert and Rockman, _Slavery's Capitalism_, Introduction{{< br >}}*   Dawson, "Hidden in Plain Sight"{{< br >}}*   "Economies of Dispossession"{{< br >}}*   Fraser, "Expropriation and Exploitation in Racialized Capitalism"{{< br >}}*   Johnson, _River of Dark Dreams_{{< br >}}*   Rosenthal, "From Memory to Mastery" {{< br >}}{{< br >}}  | &nbsp; |
-| 3\. The Rise of "Market Society" |  {{< br >}}{{< br >}} *   Hirschman, "Rival Interpretations of Market Society"{{< br >}}*   Marx, "The German Ideology"{{< br >}}*   Thompson, "The Moral Economy of the English Crowd," pp. 76–94 {{< br >}}{{< br >}} Optional: {{< br >}}{{< br >}} *   Dobbin, "How Institutional Economics is Killing Micro-Economics" {{< br >}}{{< br >}}  | Reading responses due |
-| 4\. Markets Good, or Markets Bad? Champions and Critics |  {{< br >}}{{< br >}} *   Friedman, _Capitalism and Freedom,_ Introduction and chapters 1-2{{< br >}}*   Hayek, _Individualism and Economic Order_{{< br >}}*   Polanyi, _The Great Transformation_, chapters 1–2, 4, and 5 (pp. 59–60){{< br >}}*   Posner and Weyl, "Property is Monopoly" in _Radical Markets_{{< br >}}*   Somers and Block, "From Poverty to Perversity" {{< br >}}{{< br >}} Optional: {{< br >}}{{< br >}} *   Friedman, _Capitalism and Freedom_, chapter 7{{< br >}}*   Hayek, "Economics and Knowledge"{{< br >}}*   Hayek, "The Use of Knowledge in Society"{{< br >}}*   Hicks, "Free Market and Religious Fundamentalists versus Poor Relief"{{< br >}}*   Marx, "The 18th Brumaire of Louis Bonaparte"{{< br >}}*   Polanyi, "Our Obsolete Market Mentality"{{< br >}}*   Posner and Weyl, _Radical Markets_, introduction{{< br >}}*   Somers and Block, "A Reply to Hicks" {{< br >}}{{< br >}}  | Reading responses due |
-| {{< td-colspan 3 >}} {{< br >}}{{< br >}} **II. Capitalist Governance: Theories of States and Markets** {{< br >}}{{< br >}} {{< /td-colspan >}} |||
-| 5\. The State |  {{< br >}}{{< br >}} *   Dobbin, "Why the Economy Reflects the Polity"{{< br >}}*   Mitchell, "State, Economy and the State Effect"{{< br >}}*   Scott, _Seeing Like a State_, introduction{{< br >}}*   Skocpol, "Bringing the State Back" {{< br >}}{{< br >}} Optional: {{< br >}}{{< br >}} *   Brenner, "Globalization as Reterritorialization"{{< br >}}*   Brenner and Ibanez, "Globalization as Reterritorialization" (video){{< br >}}*   Chibber, _Locked in Place_{{< br >}}*   Dobbin, _Forging Industrial Policy_, chapter 1{{< br >}}*   Ferguson, "Seeing like an Oil Company"{{< br >}}*   Fligstein, "State Building and Market Building" in _The Architecture of Markets_{{< br >}}*   Fourcade, "State Metrology"{{< br >}}*   Gupta, _Red Tape_{{< br >}}*   Hall, "Policy Paradigm, Social Learning and the State"{{< br >}}*   Katznelson, _Fear Itself_{{< br >}}*   Mitchell, "Carbon Democracy"{{< br >}}*   Morgan and Orloff, _The Many Hands of the State_, introduction{{< br >}}*   Tilly, _Coercion, Capital and European States_ {{< br >}}{{< br >}}  | Reading responses due |
-| 6\. Postcolonialism (Postcolonial Capitalism) |  {{< br >}}{{< br >}} *   Birla, "Jurisprudence of Emergence"{{< br >}}*   Birla, _Stages of Capital_, introduction{{< br >}}*   Goswami, "From Swadeshi to Swaraj"{{< br >}}*   Mitchell, _Rule of Experts_, introduction and chapter 1 {{< br >}}{{< br >}} Optional: {{< br >}}{{< br >}} *   Go, "Race, Empire and Epistemic Exclusion"{{< br >}}*   Irani, _Chasing Innovation_{{< br >}}*   Lenin, "Imperialism as a Special Stage of Capitalism"{{< br >}}*   Rodney, _How Europe Underdeveloped Africa_ {{< br >}}{{< br >}}  | Reading responses due |
-| 7\. Platform Capitalism |  {{< br >}}{{< br >}} *   Posner and Weyl, "Data as Labor" in _Radical Markets_{{< br >}}*   Rahman and Thelen, "Broken Contract"{{< br >}}*   Srnicek, _Platform Capitalism_{{< br >}}*   Zuboff, "The Secrets of Surveillance Capitalism" {{< br >}}{{< br >}} Optional: {{< br >}}{{< br >}} *   Fitzmaurice et al., "Domesticating the Market"{{< br >}}*   Mozorov, "Capitalism's New Clothes" {{< br >}}{{< br >}}  | Reading responses due |
-| {{< td-colspan 3 >}} {{< br >}}{{< br >}} **III. Techniques and Technologies of Capitalist Governance** {{< br >}}{{< br >}} {{< /td-colspan >}} |||
-| 8\. Neoliberalism (Neoliberal Capitalism) |  {{< br >}}{{< br >}} *   Block and Somers, _The Power of Market Fundamentalism_, chapter 1{{< br >}}*   Harvey, _A Brief History of Neoliberalism_, chapters 1–2{{< br >}}*   Maclean interview (video){{< br >}}*   Slobodian podcast (audio){{< br >}}*   Stedman-Jones, _Masters of the Universe_, chapter 1 {{< br >}}{{< br >}} Optional: {{< br >}}{{< br >}} {{< h 3 >}}_Theorizing and Defining Neoliberalism_{{< /h >}} {{< br >}}{{< br >}} *   Ferguson, "Uses of Neoliberalism"{{< br >}}*   Foucault, "On Governmentality"{{< br >}}*   Foucault, _Security, Territory, Population_ pp. 12–23{{< br >}}*   Gordon, "Governmental Rationality"{{< br >}}*   Harcourt, "Neoliberal Penality" {{< br >}}{{< br >}} {{< h 3 >}}Neoliberalism as a Political Project{{< /h >}} {{< br >}}{{< br >}} *   Campbell and Pedersen, "Policy Ideas, Knowledge Regimes and Comparative Political Economy"{{< br >}}*   Campbell and Pedersen, _The Rise of Neoliberalism and Institutional Analysis_, chapter 1{{< br >}}*   Maclean, _Democracy in Chains_{{< br >}}*   Mirowski, "Shock Block Doctrine"{{< br >}}*   Plehwe, introduction to Mirowski and Plehwe, _Road from Mont Pèlerin_{{< br >}}*   Slobodian, _Globalists_ {{< br >}}{{< br >}} {{< h 3 >}}Effects of Neoliberalism{{< /h >}} {{< br >}}{{< br >}} *   Brenner et al., "Variegated Neoliberalization"{{< br >}}*   Fourcade and Healy, "Classification Situations"{{< br >}}*   Gereffi, "The Global Economy"{{< br >}}*   Hall and Soskice, "An Introduction to Varieties of Capitalism" {{< br >}}{{< br >}}  | Reading responses due |
-| 9\. Informal Markets, Illicit Markets, Illegal Markets |  {{< br >}}{{< br >}} *   Fourcade and Healy, "Moral Views of Market Society"{{< br >}}*   Halley, "Conclusion: Distribution and Decision" {{< br >}}{{< br >}} {{< h 3 >}}Informal Markets{{< /h >}} {{< br >}}{{< br >}} *   Rittich, "Formality and Informality in the Law of Work"{{< br >}}*   Roy, "Urban Informality" {{< br >}}{{< br >}} {{< h 3 >}}Illicit Markets{{< /h >}} {{< br >}}{{< br >}} *   Ahmed and Jackson, "Sex, Markets and Political Economy"{{< br >}}*   Almeling, _Sex Cells_, chapter 1 {{< br >}}{{< br >}} {{< h 3 >}}Illegal Markets{{< /h >}} {{< br >}}{{< br >}} *   Barsukova and Radaev, "Informal Economy in Russia"{{< br >}}*   Santos, "The War on Drugs and the Challenges to Liberal Legality" {{< br >}}{{< br >}} Optional: {{< br >}}{{< br >}} {{< h 3 >}}Informality{{< /h >}} {{< br >}}{{< br >}} *   Castells and Portes, "World Underneath"{{< br >}}*   Portes and Haller, "The Informal Economy"{{< br >}}*   Roy, "Urban Informality"{{< br >}}*   Roy, "Why India Cannot Plan Its Cities"{{< br >}}*   Sassen, "The Informal Economy"{{< br >}}*   Song, "Planning with Urban Informality" {{< br >}}{{< br >}} {{< h 3 >}}Morals and Markets{{< /h >}} {{< br >}}{{< br >}} *   Almeling, "Selling Genes, Selling Gender"{{< br >}}*   Anteby, "Markets, Morals, and Practices of Trade"{{< br >}}*   Blair, _I’ve Got to Make My Livin’_{{< br >}}*   Chan, "Creating a Market in the Presence of Cultural Resistance"{{< br >}}*   Cohen and Jackson, "Moral Technologies of Market Construction"{{< br >}}*   Harris, _Sex Workers, Psychics, and Numbers Runners_{{< br >}}*   Healy, _Last Best Gifts_{{< br >}}*   Livne, "Economies of Dying"{{< br >}}*   Quinn, "The Transformation of Morals in Markets"{{< br >}}*   Sandel, _What Money Can't Buy_{{< br >}}*   Zelizer, "Human Values and the Market" {{< br >}}{{< br >}}  | Reading responses due |
-| 10\. Global Capitalism as Gendered Capitalism, or Gender and Globality |  {{< br >}}{{< br >}} *   Hoang, _Dealing in Desire_, chapters 1–3{{< br >}}*   Matlon, "Racial Capitalism and the Crisis of Black Masculinity"{{< br >}}*   Roy, "Subjects of Risk" {{< br >}}{{< br >}} Optional: {{< br >}}{{< br >}} *   Roy, _Poverty Capital_ {{< br >}}{{< br >}}  | Reading responses due |
-| 11\. Algorithmic Governance (guest speaker [Anush Kapadia](https://www.hss.iitb.ac.in/en/faculty-profile/anush-kapadia), IIT Bombay) |  {{< br >}}{{< br >}} *   Benjamin, _Race after Technology_{{< br >}}*   Gillespie, "Algorithm"{{< br >}}*   O'Neal, _Weapons of Math Destruction_{{< br >}}*   Pasquale, _Black Box Society_{{< br >}}*   Ziewitz, "Governing Algorithms"{{< br >}}*   Zuboff, "The Secrets of Surveillance Capitalism" {{< br >}}{{< br >}} {{< h 3 >}}Background on Algorithms{{< /h >}} {{< br >}}{{< br >}} *   "A Visual Introduction to Machine Learning" {{< br >}}{{< br >}} Optional: {{< br >}}{{< br >}} *   Benjamin, "Introduction: Discriminatory Design, Liberating Imagination"{{< br >}}*   Burrell, "How the Machine Thinks"{{< br >}}*   Fourcade and Healy, "Classification Situations"{{< br >}}*   Fourcade and Healy, "Seeing like a Market"{{< br >}}*   Kitchin, "Thinking Critically about and Researching Algorithms"{{< br >}}*   Rosenblat, _Uberland_{{< br >}}*   Seaver "Knowing Algorithms" {{< br >}}{{< br >}}  | Reading responses due |
-| {{< td-colspan 3 >}} {{< br >}}{{< br >}} **IV. Capitalism and Futurity** {{< br >}}{{< br >}} {{< /td-colspan >}} |||
-| 12\. The Politics of Socio-technical Imaginaries |  {{< br >}}{{< br >}} *   Jasanoff, "Future Imperfect"{{< br >}}*   SASE Winter 2018 Newsletter{{< br >}}*   Turner, "Burning Man at Google" {{< br >}}{{< br >}} Optional: {{< br >}}{{< br >}} *   Beckert, "Imagined Futures" {{< br >}}{{< br >}}  | Reading responses due |
-| 13\. Whither the Future of Market Society? Student Proposals and Projects |  {{< br >}}{{< br >}} *   Boltanski and Chiapello, _The New Spirit of Capitalism,_ pp. 3–27 and  {{< br >}}    57–64 {{< br >}}{{< br >}}  | Final papers/projects due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEKs
+{{< thclose >}}
+{{< thopen >}}
+Readings
+{{< thclose >}}
+{{< thopen >}}
+DUE DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1\. Introduction and Course Overview
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   "The 1619 Project"
+*   Fraser, "How Feminism Became Capitalism's Handmaiden"
+*   Kelley, "What Did Cedric Robinson Mean by Racial Capitalism?"
+*   Sandel, _What Money Can't Buy_ (video)
+
+Optional:
+
+*   Coates, "The Case for Reparations"
+*   Krugman, "Why We Are in a New Gilded Age" 
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+
+
+**I. Foundations: Conceptualizing Capitalism**
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2\. Historicizing Capitalism: Race and the New History of Capitalism
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Beckert, "Building War Capitalism"
+*   Beckert and Desan, _American Capitalism,_ introduction
+*   Girvan, "Aspects of the Political Economy of Race," pp. 1–34
+*   Robinson, _Black Marxism_, chapter 1
+
+Optional:
+
+### Classics
+
+*   Dubois, _Black Reconstruction in America_
+*   James, _The Black Jacobins_
+*   Williams, _Capitalism and Slavery_, pp. 51–84
+
+### Contemporary
+
+*   Beckert and Rockman, _Slavery's Capitalism_, Introduction
+*   Dawson, "Hidden in Plain Sight"
+*   "Economies of Dispossession"
+*   Fraser, "Expropriation and Exploitation in Racialized Capitalism"
+*   Johnson, _River of Dark Dreams_
+*   Rosenthal, "From Memory to Mastery"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3\. The Rise of "Market Society"
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Hirschman, "Rival Interpretations of Market Society"
+*   Marx, "The German Ideology"
+*   Thompson, "The Moral Economy of the English Crowd," pp. 76–94
+
+Optional:
+
+*   Dobbin, "How Institutional Economics is Killing Micro-Economics"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Reading responses due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4\. Markets Good, or Markets Bad? Champions and Critics
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Friedman, _Capitalism and Freedom,_ Introduction and chapters 1-2
+*   Hayek, _Individualism and Economic Order_
+*   Polanyi, _The Great Transformation_, chapters 1–2, 4, and 5 (pp. 59–60)
+*   Posner and Weyl, "Property is Monopoly" in _Radical Markets_
+*   Somers and Block, "From Poverty to Perversity"
+
+Optional:
+
+*   Friedman, _Capitalism and Freedom_, chapter 7
+*   Hayek, "Economics and Knowledge"
+*   Hayek, "The Use of Knowledge in Society"
+*   Hicks, "Free Market and Religious Fundamentalists versus Poor Relief"
+*   Marx, "The 18th Brumaire of Louis Bonaparte"
+*   Polanyi, "Our Obsolete Market Mentality"
+*   Posner and Weyl, _Radical Markets_, introduction
+*   Somers and Block, "A Reply to Hicks"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Reading responses due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+
+
+**II. Capitalist Governance: Theories of States and Markets**
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5\. The State
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Dobbin, "Why the Economy Reflects the Polity"
+*   Mitchell, "State, Economy and the State Effect"
+*   Scott, _Seeing Like a State_, introduction
+*   Skocpol, "Bringing the State Back"
+
+Optional:
+
+*   Brenner, "Globalization as Reterritorialization"
+*   Brenner and Ibanez, "Globalization as Reterritorialization" (video)
+*   Chibber, _Locked in Place_
+*   Dobbin, _Forging Industrial Policy_, chapter 1
+*   Ferguson, "Seeing like an Oil Company"
+*   Fligstein, "State Building and Market Building" in _The Architecture of Markets_
+*   Fourcade, "State Metrology"
+*   Gupta, _Red Tape_
+*   Hall, "Policy Paradigm, Social Learning and the State"
+*   Katznelson, _Fear Itself_
+*   Mitchell, "Carbon Democracy"
+*   Morgan and Orloff, _The Many Hands of the State_, introduction
+*   Tilly, _Coercion, Capital and European States_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Reading responses due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6\. Postcolonialism (Postcolonial Capitalism)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Birla, "Jurisprudence of Emergence"
+*   Birla, _Stages of Capital_, introduction
+*   Goswami, "From Swadeshi to Swaraj"
+*   Mitchell, _Rule of Experts_, introduction and chapter 1
+
+Optional:
+
+*   Go, "Race, Empire and Epistemic Exclusion"
+*   Irani, _Chasing Innovation_
+*   Lenin, "Imperialism as a Special Stage of Capitalism"
+*   Rodney, _How Europe Underdeveloped Africa_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Reading responses due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7\. Platform Capitalism
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Posner and Weyl, "Data as Labor" in _Radical Markets_
+*   Rahman and Thelen, "Broken Contract"
+*   Srnicek, _Platform Capitalism_
+*   Zuboff, "The Secrets of Surveillance Capitalism"
+
+Optional:
+
+*   Fitzmaurice et al., "Domesticating the Market"
+*   Mozorov, "Capitalism's New Clothes"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Reading responses due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+
+
+**III. Techniques and Technologies of Capitalist Governance**
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8\. Neoliberalism (Neoliberal Capitalism)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Block and Somers, _The Power of Market Fundamentalism_, chapter 1
+*   Harvey, _A Brief History of Neoliberalism_, chapters 1–2
+*   Maclean interview (video)
+*   Slobodian podcast (audio)
+*   Stedman-Jones, _Masters of the Universe_, chapter 1
+
+Optional:
+
+### _Theorizing and Defining Neoliberalism_
+
+*   Ferguson, "Uses of Neoliberalism"
+*   Foucault, "On Governmentality"
+*   Foucault, _Security, Territory, Population_ pp. 12–23
+*   Gordon, "Governmental Rationality"
+*   Harcourt, "Neoliberal Penality"
+
+### Neoliberalism as a Political Project
+
+*   Campbell and Pedersen, "Policy Ideas, Knowledge Regimes and Comparative Political Economy"
+*   Campbell and Pedersen, _The Rise of Neoliberalism and Institutional Analysis_, chapter 1
+*   Maclean, _Democracy in Chains_
+*   Mirowski, "Shock Block Doctrine"
+*   Plehwe, introduction to Mirowski and Plehwe, _Road from Mont Pèlerin_
+*   Slobodian, _Globalists_
+
+### Effects of Neoliberalism
+
+*   Brenner et al., "Variegated Neoliberalization"
+*   Fourcade and Healy, "Classification Situations"
+*   Gereffi, "The Global Economy"
+*   Hall and Soskice, "An Introduction to Varieties of Capitalism"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Reading responses due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9\. Informal Markets, Illicit Markets, Illegal Markets
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Fourcade and Healy, "Moral Views of Market Society"
+*   Halley, "Conclusion: Distribution and Decision"
+
+### Informal Markets
+
+*   Rittich, "Formality and Informality in the Law of Work"
+*   Roy, "Urban Informality"
+
+### Illicit Markets
+
+*   Ahmed and Jackson, "Sex, Markets and Political Economy"
+*   Almeling, _Sex Cells_, chapter 1
+
+### Illegal Markets
+
+*   Barsukova and Radaev, "Informal Economy in Russia"
+*   Santos, "The War on Drugs and the Challenges to Liberal Legality"
+
+Optional:
+
+### Informality
+
+*   Castells and Portes, "World Underneath"
+*   Portes and Haller, "The Informal Economy"
+*   Roy, "Urban Informality"
+*   Roy, "Why India Cannot Plan Its Cities"
+*   Sassen, "The Informal Economy"
+*   Song, "Planning with Urban Informality"
+
+### Morals and Markets
+
+*   Almeling, "Selling Genes, Selling Gender"
+*   Anteby, "Markets, Morals, and Practices of Trade"
+*   Blair, _I’ve Got to Make My Livin’_
+*   Chan, "Creating a Market in the Presence of Cultural Resistance"
+*   Cohen and Jackson, "Moral Technologies of Market Construction"
+*   Harris, _Sex Workers, Psychics, and Numbers Runners_
+*   Healy, _Last Best Gifts_
+*   Livne, "Economies of Dying"
+*   Quinn, "The Transformation of Morals in Markets"
+*   Sandel, _What Money Can't Buy_
+*   Zelizer, "Human Values and the Market"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Reading responses due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10\. Global Capitalism as Gendered Capitalism, or Gender and Globality
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Hoang, _Dealing in Desire_, chapters 1–3
+*   Matlon, "Racial Capitalism and the Crisis of Black Masculinity"
+*   Roy, "Subjects of Risk"
+
+Optional:
+
+*   Roy, _Poverty Capital_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Reading responses due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11\. Algorithmic Governance (guest speaker [Anush Kapadia](https://www.hss.iitb.ac.in/en/faculty-profile/anush-kapadia), IIT Bombay)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Benjamin, _Race after Technology_
+*   Gillespie, "Algorithm"
+*   O'Neal, _Weapons of Math Destruction_
+*   Pasquale, _Black Box Society_
+*   Ziewitz, "Governing Algorithms"
+*   Zuboff, "The Secrets of Surveillance Capitalism"
+
+### Background on Algorithms
+
+*   "A Visual Introduction to Machine Learning"
+
+Optional:
+
+*   Benjamin, "Introduction: Discriminatory Design, Liberating Imagination"
+*   Burrell, "How the Machine Thinks"
+*   Fourcade and Healy, "Classification Situations"
+*   Fourcade and Healy, "Seeing like a Market"
+*   Kitchin, "Thinking Critically about and Researching Algorithms"
+*   Rosenblat, _Uberland_
+*   Seaver "Knowing Algorithms"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Reading responses due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+
+
+**IV. Capitalism and Futurity**
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12\. The Politics of Socio-technical Imaginaries
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Jasanoff, "Future Imperfect"
+*   SASE Winter 2018 Newsletter
+*   Turner, "Burning Man at Google"
+
+Optional:
+
+*   Beckert, "Imagined Futures"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Reading responses due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13\. Whither the Future of Market Society? Student Proposals and Projects
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Boltanski and Chiapello, _The New Spirit of Capitalism,_ pp. 3–27 and  
+    57–64
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Final papers/projects due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
