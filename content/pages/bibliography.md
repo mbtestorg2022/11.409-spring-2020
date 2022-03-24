@@ -91,9 +91,9 @@ Fourcade, Marion. 2017. “State Metrology: The Rating of Sovereigns and the Jud
 
 Fourcade, Marion, and Kieran Healy. 2007. [“Moral Views of Market Society.”](https://www.annualreviews.org/doi/abs/10.1146/annurev.soc.33.040406.131642) _Annual Review of Sociology_ 33: 285–311.
 
-———. 2013. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Classification Situations: Life-Chances in the Neoliberal Era" (PDF)](https://kieranhealy.org/files/papers/classification-situations.pdf). _Accounting, Organizations, and Society_ 38: 559–572.
+———. 2013. [“Classification Situations: Life-Chances in the Neoliberal Era" (PDF)](https://kieranhealy.org/files/papers/classification-situations.pdf). _Accounting, Organizations, and Society_ 38: 559–572.
 
-———. 2016. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Seeing like a Market” (PDF)](https://kieranhealy.org/files/papers/slam-2.pdf). _Socio-Economic Review_ 15(1) 9-29.
+———. 2016. [“Seeing like a Market” (PDF)](https://kieranhealy.org/files/papers/slam-2.pdf). _Socio-Economic Review_ 15(1) 9-29.
 
 Fraser, Nancy. 2013. [“How Feminism Became Capitalism’s Handmaiden - and How to Reclaim It.”](https://www.theguardian.com/commentisfree/2013/oct/14/feminism-capitalist-handmaiden-neoliberal) _The Guardian,_ October 14, 2013.
 
@@ -117,7 +117,7 @@ Gupta, Akhil. 2012. _Red Tape: Bureaucracy, Structural Violence and the Poverty 
 
 Hall, Peter. 1997. [“Policy Paradigms, Social Learning, and the State: The Case of Economic Policymaking in Britain” (PDF - 3 MB)](https://scholar.harvard.edu/files/hall/files/hall1993_paradigms.pdf). _Comparative Politics_ 25(3): 275–296.
 
-Hall, Peter, and David Soskice. 2001. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“An Introduction to Varieties of Capitalism” (PDF)](https://scholar.harvard.edu/files/hall/files/vofcintro.pdf) in _Varieties of Capitalism_, ed. Hall and Soskice. Oxford University Press.
+Hall, Peter, and David Soskice. 2001. [“An Introduction to Varieties of Capitalism” (PDF)](https://scholar.harvard.edu/files/hall/files/vofcintro.pdf) in _Varieties of Capitalism_, ed. Hall and Soskice. Oxford University Press.
 
 Halley, Janet. 2018. “Conclusion. Distribution and Decision: Assessing Governance Feminism” in Janet Halley, Prabha Kotiswaran, Rachel Rebouché, and Hila Shamir (eds.), _Governance Feminism: An Introduction_. University of Minnesota Press. ISBN: 9780816698479
 
@@ -233,7 +233,7 @@ Sassen, Saskia. 1998. “The Informal Economy: Between New Developments and Old 
 
 Scott, James. 1999. _Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed_. Yale University Press. ISBN: 9780300078152
 
-Seaver, Nick. 2014. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Knowing Algorithms" (PDF)](https://static1.squarespace.com/static/55eb004ee4b0518639d59d9b/t/55ece1bfe4b030b2e8302e1e/1441587647177/seaverMiT8.pdf). _Media in Transition_ 8.
+Seaver, Nick. 2014. [“Knowing Algorithms" (PDF)](https://static1.squarespace.com/static/55eb004ee4b0518639d59d9b/t/55ece1bfe4b030b2e8302e1e/1441587647177/seaverMiT8.pdf). _Media in Transition_ 8.
 
 Skocpol, Theda. 1985. “Bringing the State Back In: Strategies of Analysis in Current Research” in Peter Evans, Dietrich Rueschemeyer and Theda Skocpol (eds.), _Bringing the State Back In_. Cambridge University Press. ISBN: 9780511628283
 
@@ -245,7 +245,7 @@ Somers, Margaret, and Fred Block. 2005. [“Reply to Hicks: Poverty and Piety.�
 
 ———. 2005. [“From Poverty to Perversity: Ideas, Markets and Institutions over 200 Years of Welfare Debate.”](https://journals.sagepub.com/doi/10.1177/000312240507000204) _American Sociological Review_ 70(2): 260–287.
 
-Song, Lily. 2016. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Planning with Urban Informality: A Case for Inclusion, Co-production and Reiteration” (PDF)](https://scholar.harvard.edu/files/lilysong/files/lsong_idpr2016.pdf). _International Development Policy Research_ 38(4): 359–381.
+Song, Lily. 2016. [“Planning with Urban Informality: A Case for Inclusion, Co-production and Reiteration” (PDF)](https://scholar.harvard.edu/files/lilysong/files/lsong_idpr2016.pdf). _International Development Policy Research_ 38(4): 359–381.
 
 Srnicek, Nick. 2016. _Platform Capitalism_. Polity Press. ISBN: 9781509504879
 
@@ -255,7 +255,7 @@ Thompson, E.P. 1971. [“The Moral Economy of the English Crowd in the Eighteent
 
 Tilly, Charles. 1990. _Coercion, Capital and European States, AD 990–1990_. Basil Blackwell. ISBN: 9781557860675
 
-Turner, Fred. 2009. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Burning Man at Google: A Cultural Infrastructure for New Media Production” (PDF)](https://fredturner.stanford.edu/wp-content/uploads/turner-nms-burning-man.pdf). _New Media Studies_ 11(1&2): 73–94.
+Turner, Fred. 2009. [“Burning Man at Google: A Cultural Infrastructure for New Media Production” (PDF)](https://fredturner.stanford.edu/wp-content/uploads/turner-nms-burning-man.pdf). _New Media Studies_ 11(1&2): 73–94.
 
 Williams, Eric. 1994. _Capitalism and Slavery._ University of North Carolina Press. ISBN: 9780807844885
 
@@ -278,7 +278,7 @@ Dubal, Veena. 2017. [“Wage Slave or Entrepreneur?”](https://repository.uchas
 
 Fligstein, Neil. 1996. “The Politics of Markets” _American Sociological Review_.
 
-Fligstein, Neil, and Luke Dauter. 2007. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“The Sociology of Markets” (PDF)](https://sociology.berkeley.edu/sites/default/files/faculty/fligstein/ANRV316-SO33-06_001-024_.pdf). _Annual Review of Sociology_ 33: 105–128.
+Fligstein, Neil, and Luke Dauter. 2007. [“The Sociology of Markets” (PDF)](https://sociology.berkeley.edu/sites/default/files/faculty/fligstein/ANRV316-SO33-06_001-024_.pdf). _Annual Review of Sociology_ 33: 105–128.
 
 Fourcade, Marion. 2007. [“Theories of Markets and Theories of Society.”](https://journals.sagepub.com/doi/10.1177/0002764207299351) _American Behavioral Scientist_ 50(8): 1015–1034.
 
